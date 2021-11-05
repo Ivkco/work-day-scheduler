@@ -1,6 +1,6 @@
 # work-day-scheduler
-Simple work-day scheduling app
-demonstrates use of 3rd party APIs and bootstrap
+# Simple work-day scheduling app
+# demonstrates use of 3rd party APIs and bootstrap
 
 
 ## GIVEN I am using a daily planner to create a schedule
@@ -17,5 +17,5 @@ demonstrates use of 3rd party APIs and bootstrap
 ## WHEN I refresh the page
 ## THEN the saved events persist
 
-link to working app: https://ivkco.github.io/work-day-scheduler/
-link to repo: https://github.com/Ivkco/work-day-scheduler
+# link to working app: https://ivkco.github.io/work-day-scheduler/
+# link to repo: https://github.com/Ivkco/work-day-scheduler
